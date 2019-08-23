@@ -59,7 +59,6 @@ class Student
     student
   end
   
-<<<<<<< HEAD
   def self.new_from_db(row)
     id = row[0]
     name = row[1]
