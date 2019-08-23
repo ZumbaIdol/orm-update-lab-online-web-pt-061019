@@ -77,7 +77,4 @@ class Student
       self.new_from_db(row)
     end.first
   end
-=======
-  
->>>>>>> a5e22aa07453d6127ea31474eb6d5054744ddeef
 end
